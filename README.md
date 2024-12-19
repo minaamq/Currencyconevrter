@@ -10,7 +10,7 @@ A simple currency converter application built using React. This app allows users
 
 ## Demo
 
-![Screenshot 1](./screenshots/ss1.png)
+![Screenshot 1](./Screenshots/ss1.png)
 
 
-![Screenshot 2](./screenshots/ss2.png)
+![Screenshot 2](./Screenshots/ss2.png)
