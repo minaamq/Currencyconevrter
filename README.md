@@ -1,6 +1,6 @@
 # Currency Converter React App
 
-A simple currency converter application built using React. This app allows users to convert between different currencies with real-time rates and an intuitive user interface.
+A simple currency converter application built using React. This app allows users to convert between different currencies with an intuitive user interface.
 
 ## Features
 - Convert between various currencies.
