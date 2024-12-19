@@ -14,3 +14,7 @@ A simple currency converter application built using React. This app allows users
 
 
 ![Screenshot 2](./Screenshots/ss2.png)
+*Swap function*
+
+
+![Screenshot 2](./Screenshots/ss3.png)
